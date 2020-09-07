@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Netflix</string>
+    <string name="menu_legenda">Selecione uma Legenda</string>
+    <string name="menu_volume">Volume</string>
+    <string name="menu_episodio">Episodios</string>
+    <string name="serie_name">Brooklyn Nine-Nine</string>
+    <string name="chapter_name">T5:E1 - Atrás das grades - Parte 1</string>
+    <string name="serie_poster">Brooklyn Nine-Nine poster</string>
+    <string name="tempo_inicio">00:00</string>
+    <string name="tempo_fim">21:28</string>
+    <string name="chromecast">  ChromeCast</string>
+</resources>
